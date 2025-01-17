@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'Tech';
-    src: url(/desafios/estilo/techfont/Techfont.ttf) format('truetype');
+    src: url(fonts/techfont/Techfont.ttf) format('truetype');
     font-weight: normal;
 }
 
